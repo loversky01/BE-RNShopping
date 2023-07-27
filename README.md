@@ -1,6 +1,6 @@
 # BE-RNShopping
 <space> "run : npm i" <space>
-<space>"then"<space>
+<space> "then" <space>
 <space>"run: npm start"<space>
 <space>"BE run port 3000 "<space>
 # edit .env
