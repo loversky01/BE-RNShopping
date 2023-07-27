@@ -1,10 +1,10 @@
 # BE-RNShopping
-"run : npm i"
-"then"
-"run: npm start"
-"BE run port 3000 "
+<space>"run : npm i"<space>
+<space>"then"<space>
+<space>"run: npm start"<space>
+<space>"BE run port 3000 "<space>
 #edit .env
-sửa đường dẫn đến mongodb của b
-sau đó chạy các bước trong FE readme để hoàn thành chương trình
+<space>sửa đường dẫn đến mongodb của b<space>
+<space>sau đó chạy các bước trong FE readme để hoàn thành chương trình<space>
 # FE-RNShopping
-"Link:"
+<space>"Link:"<space>
